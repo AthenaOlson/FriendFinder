@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans');
+
+body {
+    background: url("../images/starry-sky.jpg");
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    color: #262161 !important;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+    margin-top: 30px;
+}
+
+.form-group {
+    color: gainsboro !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    color: gainsboro !important;
+    font-size: 40px;
+}
+
+.container {
+    background-color: #262161;
+    padding: 0 25px 0 25px;
+}
+
+h4 {
+    color: rgb(238, 231, 134) !important;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
