@@ -30,7 +30,9 @@ h2 {
 
 .container {
     background-color: #262161;
-    padding: 0 25px 0 25px;
+    padding: 0 25px 20px 25px;
+    border-radius: 5px;
+    margin: 20px auto auto auto;
 }
 
 h4 {
@@ -38,5 +40,9 @@ h4 {
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 30px;
     line-height: 1.51;
-    
+}
+
+.container-1 {
+    background-color: none !important;
+    box-sizing: border-box;
 }

@@ -1,12 +1,12 @@
 var friends = [
 	{
 		name: "Lorelai Gilmore",
-		photo: "http://www.btchflcks.com/wp-content/uploads/2016/12/Gilmore-Girls-6.png",
+		photo: "http://wallpaperen.com/wp-content/uploads/2018/04/luxury-lorelai-gilmore-coffee-quotes-the-wordy-shipmate-role-models-lorelai-gilmore-lorelai-gilmore-coffee-quotes.jpg",
 		scores: [2, 5, 5, 1, 3, 1, 1, 5, 2, 5]
 	},
 	{
 		name: "Rory Gilmore",
-		photo: "https://media.allure.com/photos/580e7d382e7c1dc713a4171c/1:1/w_1600/rory6.jpg",
+		photo: "http://1l75682k88ng461uk325y9ns.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-24-at-7.10.12-PM-217x300.png",
 		scores: [5, 4, 5, 3, 1, 1, 1, 5, 1, 5]
 	},
 	{
@@ -16,14 +16,24 @@ var friends = [
 	},
 	{
 		name: "Emily Gilmore",
-		photo: "http://images4.fanpop.com/image/photos/19400000/Emily-gilmore-girls-19462871-2068-2560.jpg",
+		photo: "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Emily_Gilmore%2C_portrayed_by_actress_Kelly_Bishop.jpg/220px-Emily_Gilmore%2C_portrayed_by_actress_Kelly_Bishop.jpg",
 		scores: [5, 1, 1, 4, 5, 4, 1, 4, 2, 1]
 	},
 	{
 		name: "Sookie St. James",
-		photo: "https://assets.epicurious.com/photos/582b4de0b3446c1b212b9d64/2:1/w_1260%2Ch_630/why-gilmore-girls-fans-shouldnt-be-upset-about-sookies-absence.jpeg",
+		photo: "https://i.pinimg.com/236x/9d/71/11/9d7111145c0dc07af7c6ccd123e47a89--sookie-gilmore-girls-melissa-mccarthy.jpg",
 		scores: [3, 2, 2, 1, 1, 5, 5, 3, 2, 3]
-	}
+    }, 
+    {
+        name: "Jackson Belleville",
+        photo: "https://vignette.wikia.nocookie.net/gilmoregirls/images/d/d7/Jackson_zpsbc778b3a.jpg/revision/latest?cb=20131229072506",
+        scores: [2, 2, 1, 5, 1, 5, 5, 3, 1, 3]
+    },
+     {
+         name: "Jess Mariano",
+         photo: "https://i.pinimg.com/originals/3c/ad/bf/3cadbf351272801b91fcebd73a43dccf.jpg",
+         scores: [5, 5, 5, 1, 4, 1, 1, 5, 5, 1]
+     }   
 ];
 
 module.exports = friends;
